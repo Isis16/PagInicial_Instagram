@@ -1,2 +1,54 @@
-# PagInicial_Instagram
-Aula: Recriando a página inicial de login do Instagram
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-widht", initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Instagram</title>
+
+
+    </head>
+        <body>
+        <div class="instagram-wrapper">
+               <div class="instagram-phone">
+                    <img src="img/instagram-celular.jpg" alt="celular">
+               </div>
+            <div class="instagram-continue">
+                <div class="group">
+                    <img src="img/instagram-logo.png" class="instagram-logo" alt="logo instagram">
+            
+                    <div class="profile-photo">
+                        <img src="![image](https://user-images.githubusercontent.com/85700452/122647705-ec9ccd80-d0fb-11eb-845c-41e54d6a5bcf.png)
+" alt="profile-photo"> 
+                    </div>
+                    <a href="#" class="instagram-login">Continue as isiss.drawings </a>
+                    <a href="#" class="instagraml-logout">Remove account</a>
+                </div>
+                <div class="group">
+                    <p class="not-account">Not isiss.drawings?</p>
+                    <p class="not-account">
+                        <span class="link-blue">Switch Accounts</span>
+                        ou 
+                        <span class="link-blue">Sign Up</span>
+                    </p>
+                </div>
+                    <div class="get-the-app">
+                        <p class="get-app">Get the app</p>
+                       <div class="download">
+                           <a href="#" class="app-download"></a>
+                           <a href="#" class="app-download"></a>
+                       </div> 
+                    </div>
+            </div>
+        </div>    
+
+        </body>
+
+
+
+
+
+
+
+
+</html>
